@@ -3,6 +3,5 @@
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
-
-def calculate(a, b):
-    return a + b;
+f = open("./version.txt").read()
+print(f)
